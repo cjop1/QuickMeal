@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inicio"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/menu"
+        android:title="Menú" />
+    <item
+        android:id="@+id/combos"
+        android:title="Combos" />
+    <item
+        android:id="@+id/domicilios"
+        android:title="Domicilios" />
+    <item
+        android:id="@+id/restaurantes"
+        android:title="Restaurantes" />
+    <item
+        android:id="@+id/pagos"
+        android:title="Pagos" />
+    <item
+        android:id="@+id/contacto"
+        android:title="Contacto" />
+</menu>
